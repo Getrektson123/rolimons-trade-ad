@@ -22,7 +22,7 @@
         "any": true,
         "minSendItems": 3,
         "maxSendItems": 4,
-        "minReceiveItems": 2,
+        "minReceiveItems": 1,
         "maxReceiveItems": 4,
         "blacklisted": [
             "323476145",
